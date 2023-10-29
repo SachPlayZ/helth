@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SachPlayZ/helth/static/css/main.00fb262b.css",
+    "main.js": "/SachPlayZ/helth/static/js/main.84c44b44.js",
+    "static/js/787.41117ba5.chunk.js": "/SachPlayZ/helth/static/js/787.41117ba5.chunk.js",
+    "index.html": "/SachPlayZ/helth/index.html",
+    "main.00fb262b.css.map": "/SachPlayZ/helth/static/css/main.00fb262b.css.map",
+    "main.84c44b44.js.map": "/SachPlayZ/helth/static/js/main.84c44b44.js.map",
+    "787.41117ba5.chunk.js.map": "/SachPlayZ/helth/static/js/787.41117ba5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00fb262b.css",
+    "static/js/main.84c44b44.js"
+  ]
+}
