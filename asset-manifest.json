@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/helth/static/css/main.dbe8a82d.css",
-    "main.js": "/helth/static/js/main.bf13c0ee.js",
+    "main.css": "/helth/static/css/main.e52ca5ae.css",
+    "main.js": "/helth/static/js/main.64136d48.js",
     "static/js/787.41117ba5.chunk.js": "/helth/static/js/787.41117ba5.chunk.js",
     "static/media/SamarkanNormal-Gg5D.ttf": "/helth/static/media/SamarkanNormal-Gg5D.fcba438bef1049a04a96.ttf",
     "index.html": "/helth/index.html",
-    "main.dbe8a82d.css.map": "/helth/static/css/main.dbe8a82d.css.map",
-    "main.bf13c0ee.js.map": "/helth/static/js/main.bf13c0ee.js.map",
+    "main.e52ca5ae.css.map": "/helth/static/css/main.e52ca5ae.css.map",
+    "main.64136d48.js.map": "/helth/static/js/main.64136d48.js.map",
     "787.41117ba5.chunk.js.map": "/helth/static/js/787.41117ba5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbe8a82d.css",
-    "static/js/main.bf13c0ee.js"
+    "static/css/main.e52ca5ae.css",
+    "static/js/main.64136d48.js"
   ]
 }
